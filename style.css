@@ -387,6 +387,10 @@ a.btn--radius {
   justify-content: center;
   align-items: center;
 }
+.contact{
+  display: flex;
+  justify-content: center;
+}
 
 
 
