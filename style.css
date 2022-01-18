@@ -44,15 +44,7 @@ a{
   margin-block-end: 0px;
   margin-block-start: 0px;
 }
-/*.menu-bar{
-  width: 100%;
-  display: flex;
-}
-.menu-bar2{
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
-}*/
+
 .git{
   content: url('https://api.iconify.design/akar-icons/github-fill.svg?color=%23ccc&height=45');
 }
@@ -376,6 +368,24 @@ a.btn--radius {
   color: #FFF;
   display: flex;
   justify-content: center;
+}
+/*contact-me*/
+.contact-name{
+  font-size: 90px;
+  font-family: 'Playfair Display', serif;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  padding-bottom: 0px;
+}
+.address{
+  color: #FFF;
+  font-family:'Playfair Display', serif;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
