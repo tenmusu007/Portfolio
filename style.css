@@ -63,6 +63,18 @@ a{
   color: #fff;
   letter-spacing: 2px;
 }
+.menu:hover{
+  opacity: 0.6;
+}
+.mail:hover{
+  opacity: 0.6;
+}
+.insta:hover{
+  opacity: 0.6;
+}
+.git:hover{
+  opacity: 0.6;
+}
 
 /*homepage*/
 .big-name,.about-me,.project{
