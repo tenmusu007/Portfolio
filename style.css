@@ -392,7 +392,18 @@ a.btn--radius {
   display: flex;
   justify-content: center;
 }
-
+.contact-pic{
+  border-radius: 200px;
+}
+.contact-me{
+  padding-top:100px;
+  display: flex;
+}
+.contact-mebox{
+  width: 50%;
+  display: grid;
+  justify-content: center;
+}
 
 
 tr:hover{
