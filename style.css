@@ -5,7 +5,7 @@ img { vertical-align : middle;
 
 html {
 font-family : verdana, sans-serif;
-/*font-size : 75%; /*レスポンシブタイプセッティングの指定*/
+
 line-height : 1}
 
 a{
@@ -125,7 +125,7 @@ text-align : left}
 
 }
 .pic,.pic2,.pic3{
-  border-radius: 200px;
+  border-radius: 80px;
   margin-right: 30px;
 }
 .pic2{
@@ -179,6 +179,15 @@ a.btn--radius {
   display: flex;
   justify-content: center;
 }
+.aboutme-menu:hover{
+  opacity: 0.6;
+}
+.project-menu:hover{
+  opacity: 0.6;
+}
+.contactme-menu:hover{
+  opacity: 0.6;
+}
 
 
 /*about me*/
@@ -192,7 +201,7 @@ a.btn--radius {
   justify-content: center;
 }
 .aboutmepic1{
-  border-radius: 200px;
+  border-radius: 80px;
 }
 .myselfsentence{
   display: grid;
@@ -240,7 +249,7 @@ a.btn--radius {
 }
 
 .aboutmepic2,.aboutmepic3{
-  border-radius: 200px;
+  border-radius: 80px;
   display: grid;
   grid-template-columns: auto auto auto;
 }
@@ -409,7 +418,7 @@ a.btn--radius {
   justify-content: center;
 }
 .contact-pic{
-  border-radius: 200px;
+  border-radius: 80px;
 }
 .contact-me{
   padding-top:100px;
